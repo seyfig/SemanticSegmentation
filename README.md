@@ -37,6 +37,8 @@ loss calculated by summing the loss values of batches
 iou calculated by taking the weighted average of iou values of batches
 ET is the epoch time
 TT is the total time from the beginning.
+
+
 | Epoch |   loss   |   iou   |    ET    |    TT    |
 |:-----:|:--------:|:-------:|:--------:|:--------:|
 |  37   | 4.255037 |0.068525 |  1085.30 | 40340.56 |
